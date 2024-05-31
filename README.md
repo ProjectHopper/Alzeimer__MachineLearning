@@ -2,7 +2,7 @@
 
 Predictive modeling for Alzheimer classification: </BR>
 Comparative analysis of machine learning algorithms and ensemble techniques.</BR>
-Alzheimer's disease is a neurodegenerative disorder that aƯects memory and </BR>
+Alzheimer's disease is a neurodegenerative disorder that affects memory and </BR>
 behavior. Since there is currently no cure available, early-stage prevention is crucial. </BR>
 In this project, I will use heatmaps, logistic regression, decision trees, k-nearest </BR>
 neighbors (k-NN), and random forests to predict Alzheimer's disease and identify </BR>
