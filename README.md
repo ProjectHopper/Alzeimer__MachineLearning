@@ -6,7 +6,7 @@ Alzheimer's disease is a neurodegenerative disorder that affects memory and </BR
 behavior. Since there is currently no cure available, early-stage prevention is crucial. </BR>
 In this project, I will use heatmaps, logistic regression, decision trees, k-nearest </BR>
 neighbors (k-NN), and random forests to predict Alzheimer's disease and identify </BR>
-the features that most significantly aƯect its development. I will also compare the </BR>
+the features that most significantly affect its development. I will also compare the </BR>
 accuracy and confusion matrices of these models to determine the best </BR>
 classification method for this task. </BR></BR>
 
