@@ -45,7 +45,7 @@ Overall, Age, EDUC, and MMSE mentioned 2 times. </BR>
 Age, years of education, and mental state are the main factors contributing to Alzheimer's disease. </BR>
 Error rate (Random Forest): The best n is 10 and d is 5, with an error rate of 6.78%. </BR></BR>
 # Conclusion </BR>
-Random Forest is the most eƯective model for predicting Alzheimer’s disease in the dataset. Heatmap analysis revealed correlations between 
+Random Forest is the most effective model for predicting Alzheimer’s disease in the dataset. Heatmap analysis revealed correlations between 
 features, which were analyzed based on their labels. The heatmap showed that age, years of education, and mental state were consistently mentioned 
 across the correlation matrices. Random Forest determined that the bestcombination of hyperparameters was n=10, d=5, yielding an error rate of 6.78%.
 Early-stage detection is critical in Alzheimer's disease, and based on this project, I discovered that the converted stage correlates with mental status
